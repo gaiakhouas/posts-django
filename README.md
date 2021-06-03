@@ -1,1 +1,1 @@
-# blog-django
+# posts-django
